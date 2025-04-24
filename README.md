@@ -1,2 +1,2 @@
 # Credit-Card-
-The project is about credit card fraud detection using machine learning algorithms.
+The project is about credit card fraud detection using machine learning algorithms. Projects involves credit card fraud detection using machine learning algorithms to identify fraudulent transactions, machine learning algorithms are used to identify the fraudulent transactions like random forest decision tree, logistic regression. and also used encoding and scaling techniques to transform the categorical values. 
